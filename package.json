@@ -1,6 +1,7 @@
 {
   "name": "v3eventbus",
   "version": "1.0.1",
+  "keywords": ["javascript", "vue", "vue3", "eventbus", "event", "bus"],
   "description": "vue3 eventbus",
   "main": "index.js",
   "author": "yangzhenfeng",
