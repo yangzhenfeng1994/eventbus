@@ -1,5 +1,5 @@
 {
-  "name": "eventbus",
+  "name": "v3eventbus",
   "version": "1.0.1",
   "description": "vue3 eventbus",
   "main": "index.js",
