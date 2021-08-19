@@ -1,0 +1,8 @@
+{
+  "name": "eventbus",
+  "version": "1.0.0",
+  "description": "vue3 eventbus",
+  "main": "index.js",
+  "author": "yangzhenfeng",
+  "license": "ISC"
+}
